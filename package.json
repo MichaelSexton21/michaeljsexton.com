@@ -10,5 +10,8 @@
   "devDependencies": {
     "content-wind": "latest",
     "nuxt": "latest"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.0.2"
   }
 }
