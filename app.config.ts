@@ -4,9 +4,5 @@ export default defineAppConfig({
   socials: {
     github: "michaelsexton21",
   },
-  prose: {
-    h1: {
-      icon: "/favicon.ico",
-    },
-  },
+  prose: {},
 });
