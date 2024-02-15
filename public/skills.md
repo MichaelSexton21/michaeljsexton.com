@@ -1,10 +1,7 @@
----
-navigation.title: "Skills"
----
-
 # Technical Skills
 
 ### Programming Languages
+
 - Python
 - SQL
 - Java
@@ -13,6 +10,7 @@ navigation.title: "Skills"
 - JavaScript
 
 ### Machine Learning and Data Science
+
 - Machine Learning
 - Data Science
 - PyTorch
@@ -24,6 +22,7 @@ navigation.title: "Skills"
 - Natural Language Processing (NLP)
 
 ### Data Analysis and Visualization
+
 - Pandas
 - NumPy
 - Plotly
@@ -31,6 +30,7 @@ navigation.title: "Skills"
 - Tableau
 
 ### Software Development and Tools
+
 - Git
 - Docker
 - Amazon Web Services (AWS)
@@ -38,10 +38,12 @@ navigation.title: "Skills"
 - Linux
 
 ### Databases
+
 - PostgreSQL
 - IBM Db2
 
 ### Other Skills
+
 - Firmware and Hardware Analysis
 - Financial Reporting Software Development
 - Competitive Analysis

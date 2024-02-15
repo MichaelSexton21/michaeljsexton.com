@@ -1,12 +1,8 @@
----
-navigation.title: "Experience"
----
-
 # Work Experience
 
 ---
 
-<img src="/company_logos/ibm_logo.jpeg" width="100" height="100" style="display:inline; vertical-align:middle;" />
+<img src="assets/company_logos/ibm_logo.jpeg" width="100" height="100" style="display:inline; vertical-align:middle;" />
 <span style="font-size: 2em; font-weight: bold; display: inline; vertical-align: middle; margin-bottom: -50px;">IBM</span>
 
 #### Data Scientist and Software Developer
@@ -15,6 +11,7 @@ navigation.title: "Experience"
 Location: Poughkeepsie, New York, United States · On-site
 
 Responsibilities:
+
 - Directed thermal diagnostics for the IBM z15 Themis and z16 Artemis systems, influencing production operations globally.
 - Implemented advanced data analysis techniques in production, leading to significant fault detection and prevention worldwide.
 - Integral in updating production firmware and hardware in new IBM shipments through detailed Failure Analysis.
@@ -27,6 +24,7 @@ Skills: Python, SQL, Scikit-Learn, Pandas, Machine Learning, PyTorch, Time Serie
 **Part-time** &emsp; _Aug 2021 - Jul 2022 · 1 yr_
 
 Responsibilities:
+
 - Developed and deployed a Machine Learning pipeline for predicting CPU failures in over 10,000 production Mainframes.
 - Employed SQL, Python, and Kubeflow for processing large-scale production data.
 - Key contributor to reducing unexpected production downtime by forecasting failures 30 days in advance.
@@ -40,6 +38,7 @@ Skills: Python, SQL, Scikit-Learn, Pandas, Machine Learning, PyTorch, Time Serie
 **Internship** &emsp; _May 2021 - Aug 2021 · 4 mos_
 
 Responsibilities:
+
 - Assisted in software solutions development for Mainframe system diagnostics using SQL and Python.
 - Participated in projects aimed at enhancing Mainframe uptime and reducing reactive repairs.
 - Gained hands-on experience in data science and machine learning in a professional setting.
@@ -49,15 +48,15 @@ Skills: Python, SQL, Scikit-Learn, Pandas, Machine Learning, PyTorch, Time Serie
 
 ---
 
-<img src="/company_logos/code_ocean_logo.webp" width="100" height="100" style="display:inline; vertical-align:middle;" />
+<img src="assets/company_logos/code_ocean_logo.webp" width="100" height="100" style="display:inline; vertical-align:middle;" />
 <span style="font-size: 2em; font-weight: bold; display: inline; vertical-align: middle; margin-bottom: -50px;">Code Ocean</span>
-
 
 #### Data Scientist
 
 **Part-time** &emsp; _Aug 2020 - May 2021 · 10 mos_
 
 Responsibilities:
+
 - Balanced part-time work with ongoing academic studies.
 - Developed features using AWS Batch for processing large-scale genomics pipelines.
 - Engaged in Machine Learning and Data Science projects, focusing on genomics data analysis.
@@ -69,6 +68,7 @@ Skills: Machine Learning, Data Science, Amazon Web Services (AWS), Docker, Pytho
 **Full-time** &emsp; _May 2020 - Jul 2020 · 3 mos_
 
 Responsibilities:
+
 - Designed and executed data science customer analysis.
 - Focused on replicating results of cutting-edge research papers and tools in Bioinformatics and Computational Chemistry.
 - Produced self-contained computing environments using Code Ocean for reliable result replication.
@@ -78,7 +78,7 @@ Skills: Machine Learning, Data Science, Docker, Python
 
 ---
 
-<img src="/company_logos/pgm_logo.jpeg" width="100" height="100" style="display:inline; vertical-align:middle; margin-right: 10px;" />
+<img src="assets/company_logos/pgm_logo.jpeg" width="100" height="100" style="display:inline; vertical-align:middle; margin-right: 10px;" />
 <span style="font-size: 2em; font-weight: bold; display: inline; vertical-align: middle; margin-bottom: -50px;">Paragon Global Markets</span>
 
 #### Data Analysis Intern
@@ -87,6 +87,7 @@ Skills: Machine Learning, Data Science, Docker, Python
 Location: New York, NY
 
 Responsibilities:
+
 - Developed and implemented custom financial reporting software.
 - Utilized Python to build a powerful and efficient backend.
 - Managed database operations using PostgreSQL.
@@ -96,7 +97,7 @@ Skills: Python, PostgreSQL, Tableau
 
 ---
 
-<img src="/company_logos/layer7_logo.jpeg" width="100" height="100" style="display:inline; vertical-align:middle; margin-right: 10px;" />
+<img src="assets/company_logos/layer7_logo.jpeg" width="100" height="100" style="display:inline; vertical-align:middle; margin-right: 10px;" />
 <span style="font-size: 2em; font-weight: bold; display: inline; vertical-align: middle; margin-bottom: -50px;">Layer 7 Consulting</span>
 
 #### Intern
@@ -105,6 +106,7 @@ Skills: Python, PostgreSQL, Tableau
 Location: New York, New York, United States
 
 Responsibilities:
+
 - Actively shadowed experienced technicians during customer support and gained hands-on experience.
 - Conducted independent site visits to a diverse range of clients including hedge funds, brokerage firms, trading businesses, and law firms.
 - Diagnosed and remediated complex hardware and software problems in high-pressure environments.

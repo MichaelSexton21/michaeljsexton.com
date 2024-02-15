@@ -1,7 +1,3 @@
----
-navigation.title: "About"
----
-
 # About Me
 
 As a Masters Student at Cornell University, I am currently engaged in advancing my expertise in Data Science and Machine Learning. My focus areas include deep neural networks, machine learning, artificial intelligence, and Data Science. I obtained my Bachelor of Science degree with a double major in Computer Engineering and Computer Science from the University of Wisconsin-Madison in 2022.

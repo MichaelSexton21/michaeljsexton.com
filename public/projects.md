@@ -1,7 +1,3 @@
----
-navigation.title: "Projects"
----
-
 # Academic Projects
 
 Here are some of the academic projects I've worked on. The title of each project links to its GitHub repository where you can find the code and additional details.

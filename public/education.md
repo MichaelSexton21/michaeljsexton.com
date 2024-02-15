@@ -1,10 +1,6 @@
----
-navigation.title: "Education"
----
-
 # Education
 
-## <img src="/cornell_university_seal.svg" width="50" height="50"> Cornell University
+## <img src="assets/cornell_university_seal.svg" width="50" height="50"> Cornell University
 
 **Expected May 2024**  
 **Master's of Engineering in Computer Science**
@@ -21,7 +17,7 @@ Pytorch, Hadoop, Spark, AWS, Firebase
 
 ---
 
-## <img src="/uw_madison_crest.png" width="50" height="50"> University of Wisconsin-Madison, College of Engineering
+## <img src="assets/uw_madison_crest.png" width="50" height="50"> University of Wisconsin-Madison, College of Engineering
 
 **Bachelor of Science, Double Major in Computer Engineering and Computer Science**
 

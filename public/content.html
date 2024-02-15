@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <head>
+      <title>Michael Sexton</title>
+      <link rel="icon" href="./assets/favicon.ico" type="image/x-icon" />
+
+      <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css"
+      />
+      <!-- Bulma Timeline Extension -->
+      <link
+        rel="stylesheet"
+        href="https://unpkg.com/bulma-timeline/dist/css/bulma-timeline.min.css"
+      />
+      <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      />
+      <style>
+        .image-container {
+          text-align: center;
+          margin-bottom: 30px;
+        }
+        .icon {
+          margin-right: 5px;
+        }
+      </style>
+    </head>
+
+    <title>Markdown Display</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  </head>
+  <body>
+    <div id="header-placeholder"></div>
+
+    <div id="markdown-content"></div>
+
+    <script>
+      function loadMarkdownContent() {
+        const page = window.location.hash.substr(1) || "about"; // Default if no hash
+        const markdownFile = page + ".md";
+
+        fetch(markdownFile)
+          .then((response) => response.text())
+          .then((text) => {
+            const html = marked.parse(text);
+            document.getElementById(
+              "markdown-content"
+            ).innerHTML = `<section class="section"><div class="content ">${html}</div></section>`;
+          });
+      }
+
+      // Load content when the DOM is fully loaded
+      document.addEventListener("DOMContentLoaded", loadMarkdownContent);
+
+      // Load new content when URL hash changes
+      window.addEventListener("hashchange", loadMarkdownContent);
+    </script>
+
+    <!-- Font Awesome JS for icons -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+    <script src="navbar.js"></script>
+    <script src="header.js"></script>
+  </body>
+  <section class="footer">
+    <div id="footer-placeholder"></div>
+  </section>
+</html>
