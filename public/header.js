@@ -1,3 +1,18 @@
+function setupBurgerMenu() {
+  const $navbarBurgers = Array.prototype.slice.call(
+    document.querySelectorAll(".navbar-burger"),
+    0
+  );
+  $navbarBurgers.forEach((el) => {
+    el.addEventListener("click", () => {
+      const target = el.dataset.target;
+      const $target = document.getElementById(target);
+      el.classList.toggle("is-active");
+      $target.classList.toggle("is-active");
+    });
+  });
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   // Load the header content
   fetch("header.html")
@@ -5,6 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then((data) => {
       document.getElementById("header-placeholder").innerHTML = data;
       setupNavbar();
+      setupBurgerMenu();
     });
 
   // Load the footer content
