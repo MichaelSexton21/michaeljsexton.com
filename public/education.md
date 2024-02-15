@@ -21,7 +21,9 @@ Pytorch, Hadoop, Spark, AWS, Firebase
 
 **Bachelor of Science, Double Major in Computer Engineering and Computer Science**
 
-- Artificial Intelligence Club, Data Science Club, Software Development Club
+- Artificial Intelligence Club
+- Data Science Club
+- Software Development Club
 
 **Relevant Coursework:** Artificial Intelligence, Neural Networks, Database Management Systems, Data Structures
 

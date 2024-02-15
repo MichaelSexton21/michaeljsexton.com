@@ -14,7 +14,6 @@ function setupBurgerMenu() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  // Load the header content
   fetch("header.html")
     .then((response) => response.text())
     .then((data) => {
@@ -23,7 +22,6 @@ document.addEventListener("DOMContentLoaded", () => {
       setupBurgerMenu();
     });
 
-  // Load the footer content
   fetch("footer.html")
     .then((response) => response.text())
     .then((data) => {
@@ -46,5 +44,3 @@ function setupNavbar() {
     });
   });
 }
-
-setupNavbar(); // Call setupNavbar directly

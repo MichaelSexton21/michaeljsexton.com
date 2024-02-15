@@ -8,4 +8,4 @@ I am anticipating graduation in May 2024 and am currently seeking full-time oppo
 
 Feel free to contact me at ms3648@cornell.edu.
 
-Skills: Python, Deep Neural Networks, Machine Learning, Artificial Intelligence, Data Analysis, Software Development.
+[Skills](content.html#skills)
