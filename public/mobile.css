@@ -1,11 +1,25 @@
-/* Custom CSS */
+/* Custom CSS to override Bulma's mobile navbar styles */
 
 @media screen and (max-width: 1023px) {
   .navbar-burger {
-    display: none; /* Hides the burger icon */
+    display: none; /* Hide the burger icon */
   }
 
   .navbar-menu {
-    display: block !important; /* Always show the navbar menu */
+    display: flex !important; /* Ensure the menu is always a flexbox */
+    flex-grow: 1; /* Allows the menu to take up necessary space */
   }
+
+  .navbar-start,
+  .navbar-end {
+    flex-direction: row; /* Display menu items in a row */
+    align-items: center; /* Center items vertically */
+    width: 100%; /* Full width to accommodate all items */
+  }
+
+  .navbar-item {
+    display: inline-block; /* Display each item inline */
+  }
+
+  /* Additional customizations as needed */
 }
