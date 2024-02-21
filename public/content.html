@@ -46,7 +46,7 @@
     <script>
       function loadMarkdownContent() {
         const page = window.location.hash.substr(1) || "about"; // Default if no hash
-        const markdownFile = page + ".md";
+        const markdownFile = "pages/" + page + ".md";
 
         fetch(markdownFile)
           .then((response) => response.text())

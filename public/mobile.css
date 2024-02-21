@@ -1,4 +1,4 @@
-/* Custom CSS to override Bulma's mobile navbar styles */
+Custom CSS to override Bulma's mobile navbar styles
 
 @media screen and (max-width: 1023px) {
   .navbar-burger {
@@ -20,6 +20,4 @@
   .navbar-item {
     display: inline-block; /* Display each item inline */
   }
-
-  /* Additional customizations as needed */
 }
