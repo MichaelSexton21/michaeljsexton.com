@@ -8,4 +8,4 @@ I am anticipating graduation in May 2024 and am currently seeking full-time oppo
 
 Feel free to contact me at ms3648@cornell.edu.
 
-[Skills](content.html#skills)
+[Skills](index.html#skills)
