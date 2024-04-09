@@ -49,13 +49,13 @@
 
 ## [Portfolio Website](https://github.com/MichaelSexton21/michaeljsexton.com)
 
-- **Languages/Tools**: HTML, Bulma CSS, JavaScript, Vercel (hosting)
-- **Description**: Personal Website.
+- **Languages/Tools**: HTML, Bulma CSS, Vanilla JavaScript, Firebase
+- **Description**: This Website.
 - **Year**: 2023-Current
 
 ## [Degree Audit](https://github.com/MichaelSexton21/degree_audit)
 
-- **Languages/Tools**: HTML, Bulma CSS, JavaScript, Vercel (hosting)
+- **Languages/Tools**: HTML, Bulma CSS, Vanilla JavaScript, Vercel (hosting)
 - **Description**: User-friendly application for Cornell Tech students to track their degree progress, available at degree-audit.vercel.app, addressing a previously unmet need at the institution.
 - **Year**: 2024
 
