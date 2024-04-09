@@ -1,5 +1,12 @@
 # Academic Projects
 
+## Startup Studio Project - [MercuryVote](https://mercuryvote.com)
+
+- **Languages/Tools**: React, Next.js, Vercel, Supabase (database), Figma, Google Analytics
+- **Description**: MercuryVote is an auction-based marketplace that empowers shareholders to generate extra revenue by selling their unused proxy voting rights. Enabling, activist investors to purchase these proxy votes to impact boards and proposals at the next corporate election.
+
+- **Details**: By leveraging legal precedents and addressing the challenges faced in corporate elections—such as the lack of engagement from retail investors and the high costs associated with opposing company directives—MercuryVote offers a transparent, efficient solution. The platform is built by a team with diverse expertise, from software engineering to law, and plans to attract its initial user base through targeted outreach and leveraging the inherent demand for cost-effective proxy acquisition. With a business model that benefits from transaction fees and campaign listings, Mercury Vote aims to make the process of proxy voting more accessible and impactful. The competitive landscape, highlighted by the exit of a main competitor, underscores the timely opportunity for MercuryVote to establish new standards in proxy voting transparency and efficiency. The market potential is significant, with a total addressable market ranging between $330 million and $580 million annually, signifying a ripe opportunity for disruption in proxy solicitation and advocacy. Mercury Vote's unique value proposition, strategic go-to-market plan, and clear roadmap for growth showcase its potential to transform the proxy voting landscape.
+
 ## Machine Learning Engineering
 
 - **Languages/Tools**: Python, numpy
